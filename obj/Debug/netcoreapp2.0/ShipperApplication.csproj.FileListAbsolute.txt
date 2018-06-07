@@ -1,0 +1,14 @@
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.csproj.CoreCompileInputs.cache
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.AssemblyInfoInputs.cache
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.AssemblyInfo.cs
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplication.deps.json
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplication.runtimeconfig.json
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplication.runtimeconfig.dev.json
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplication.dll
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplication.pdb
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplicationLibrary.dll
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\bin\Debug\netcoreapp2.0\ShipperApplicationLibrary.pdb
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.csprojAssemblyReference.cache
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.csproj.CopyComplete
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.dll
+C:\Users\Vijay.Boppana\source\repos\ShipperApplication\ShipperApplication.cs\obj\Debug\netcoreapp2.0\ShipperApplication.pdb
